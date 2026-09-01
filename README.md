@@ -23,3 +23,6 @@ This repository contains my step-by-step TypeScript practice files, logic buildi
 * **DOM Scripting with TS:** Handled HTML element selection using specific assertions (`HTMLInputElement`, `HTMLAnchorElement`).
 * **Utility Helpers:** Leveraged built-in TypeScript utility types to keep object transformations clean and readable.
 
+## Author
+
+Muhammad Sheraz | Software Engineer
